@@ -4,9 +4,10 @@
 
 ## Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rogerio.rs@gmail.com)](mailto:rogerio.rs@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rogerio.rs@gmail.com)](mailto:rogerio.rs@gmail.com)
 
 ## Social
+------------ 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogrs/)](https://www.linkedin.com/in/rogrs/)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=[https://www.linkedin.com/in/rogrs](https://stackoverflow.com/users/4957306/rog%c3%a9rio-ribeiro)/)](https://stackoverflow.com/users/4957306/rog%c3%a9rio-ribeiro)
 
