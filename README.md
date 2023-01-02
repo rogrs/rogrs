@@ -10,7 +10,7 @@
 ## Social
 ------------ | -------------
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogrs/)](https://www.linkedin.com/in/rogrs/) | -
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rogrs/)](https://www.linkedin.com/in/rogrs/) | -
 
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/4957306/rog%c3%a9rio-ribeiro)](https://stackoverflow.com/users/4957306/rog%c3%a9rio-ribeiro) | -
 
@@ -57,7 +57,7 @@ Badge | working years
 
 ## Cloud
 
-Badge | URL
+Badge | working years
 ------------ | -------------
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> | since 2013
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> | since 2017
