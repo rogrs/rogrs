@@ -9,8 +9,10 @@
 
 ## Social
 ------------ | -------------
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/rogrs/) | -
-![https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white](https://stackoverflow.com/users/4957306/rog%c3%a9rio-ribeiro) | -
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogrs/)](https://www.linkedin.com/in/rogrs/) | -
+
+[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/4957306/rog%c3%a9rio-ribeiro)](https://stackoverflow.com/users/4957306/rog%c3%a9rio-ribeiro) | -
 
 
 
@@ -36,9 +38,11 @@ Badge | working years
 Badge | working years
 ------------ | -------------
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> | since 2003
-<img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" /> | since 2020
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | since 2015
 <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" /> | since 2003
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> | since 2007
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> | since 2010
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | since 2015
+<img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" /> | since 2020
 
 
 ## NOSQL Databases
@@ -46,15 +50,20 @@ Badge | working years
 Badge | working years
 ------------ | -------------
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> | since 2017
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" /> | since 2021
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" /> | since 2021
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" /> | since 2021
+
 
 ## Cloud
 
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> | since 2013
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> | since 2017
+<img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white" /> | since 2018
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> | since 2019
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> | since 2021
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> | since 2017
 
 ## System Operations
 
