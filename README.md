@@ -12,7 +12,7 @@
 
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/4957306/rog%c3%a9rio-ribeiro)](https://stackoverflow.com/users/4957306/rog%c3%a9rio-ribeiro) 
 
-[![Credly Badge](https://img.shields.io/badge/Credly?style=for-the-badge&logo=credly&logoColor=white&link=https://www.credly.com/users/rogrs/badges)](https://www.credly.com/users/rogrs/badges) 
+[![Credly Badge](https://img.shields.io/badge/Credly-FE7A16?style=for-the-badge&logo=credly&logoColor=white&link=https://www.credly.com/users/rogrs/badges)](https://www.credly.com/users/rogrs/badges) 
 
 
 
